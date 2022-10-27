@@ -1,0 +1,48 @@
+body{
+    box-sizing: content-box;
+    width: 100%;
+}
+
+.bg-image{
+    background-color: #a75f02;
+    min-height: 100vh;
+}
+.heading-page{
+    color: whitesmoke;
+    font-size: 6rem;
+    font-weight: 700;
+    padding-top: 2rem;
+}
+
+.card { 
+    background-color: rgba(245, 245, 245, 0.4) !important;
+    color: white !important;
+    min-height: 25rem;
+    width: 28rem;
+    border-radius: 2rem;
+}
+.card-heading-cs{
+    font-size: 3rem;
+    color: white;
+    padding-top: 2rem;
+}
+.card-heading-cs-2{
+    font-size: 3rem;
+    color: white;
+}
+.cs-icon{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.cs-icon img{
+    width: 10rem;
+    height: 10rem;
+}
+
+.footer-section{
+font-size: 1rem;
+color: whitesmoke;
+font-weight: 300;
+}
